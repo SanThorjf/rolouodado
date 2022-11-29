@@ -1,1 +1,1 @@
-- Projeto em htnl, css e javascript puro.
+- Projeto em html, css e javascript puro.
